@@ -1,0 +1,10 @@
+diff --git a/org.openjdk.jmc.common/META-INF/MANIFEST.MF b/org.openjdk.jmc.common/META-INF/MANIFEST.MF
+index 7918595..5ed0b0a 100644
+--- a/org.openjdk.jmc.common/META-INF/MANIFEST.MF
++++ b/org.openjdk.jmc.common/META-INF/MANIFEST.MF
+@@ -13,4 +13,4 @@ Export-Package: org.openjdk.jmc.common,
+  org.openjdk.jmc.common.util,
+  org.openjdk.jmc.common.version
+ Automatic-Module-Name: org.openjdk.jmc.common
+-Require-Bundle: org.owasp.encoder, org.lz4.lz4-java
++Require-Bundle: org.owasp.encoder, lz4-java
